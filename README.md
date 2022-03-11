@@ -2,7 +2,7 @@
 BERT sequence classifier trained on dynamic hate-speech dataset
 
 ## Usage
-python train.py -> will output the trained model (around 450mb) 
+python train.py -> will output the trained model (around 450mb) \n
 python test.py -> will test the model on test data and store the results in results folder
 
 ## Credit
